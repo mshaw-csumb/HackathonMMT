@@ -1,6 +1,46 @@
-.gradle
+*.gradle
 /local.properties
 /.idea/workspace.xml
 /.idea/libraries
 .DS_Store
 /build
+*.iml
+
+# Ignore gradle files
+.gradle/
+gradle/
+gradle.*
+gradlew*
+
+.idea/
+
+*.pydevproject
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# CDT-specific
+.cproject
+
+# PDT-specific
+.buildpath
+
+# built application files
+*.apk
+*.ap_

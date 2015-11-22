@@ -3,4 +3,4 @@
     android:layout_width="match_parent" android:layout_height="match_parent"
     android:background="@drawable/repeat_pattern">
 
-</RelativeLayout><!-- From: file:/C:/Users/Markus/School/hackathon/hackathon/HackathonMMT/Francisco/app/src/main/res/layout/simple_flash_card_activity.xml -->
+</RelativeLayout><!-- From: file:/C:/Users/Markus/School/hackathon/hackathon/HackathonMMT/app/src/main/res/layout/simple_flash_card_activity.xml -->

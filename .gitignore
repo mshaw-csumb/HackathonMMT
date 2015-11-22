@@ -7,10 +7,10 @@
 *.iml
 
 # Ignore gradle files
-.gradle/
-gradle/
-gradle.*
-gradlew*
+#.gradle/
+#gradle/
+#gradle.*
+#gradlew*
 
 .idea/
 
